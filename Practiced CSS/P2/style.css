@@ -1,0 +1,18 @@
+#mainTopic {
+    color:blue;
+}
+*{
+    text-align: center;
+}
+h1,h3,h5 {
+    font-style: georgia;
+    color:yellow;
+}
+#p{
+    color:white;
+    background-color: cornflowerblue;
+}
+button:hover{
+    background-color: blue;
+    color:blue;
+}

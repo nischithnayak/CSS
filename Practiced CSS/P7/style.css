@@ -1,0 +1,20 @@
+div{
+    height: 20px;
+    width:150px;
+    background-color: pink;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+#d1{
+    margin:25px;
+}
+#d2{
+    margin: 1px 2px;
+}
+#d3{
+    margin:1px 2px 3px;
+}
+#d4{
+    margin:1px 2px 3px 4px;
+}

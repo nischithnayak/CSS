@@ -1,0 +1,32 @@
+#box1{
+    width:100px;
+    height:100px;
+    background-color: green;
+    transition:width 2s ease-in 0.5s; 
+}
+#box2{
+    width:100px;
+    height:100px;
+    background-color: red;
+    transform: translate(200px,200px) rotate(90deg);
+}
+#box3{
+    width:100px;
+    height:100px;
+    background-color: lightblue;
+    transform:skewX(20deg);
+}
+#box4{
+    width:100px;
+    height:100px;
+    background-color: lightgreen;
+    box-shadow: 2px 2px 5px green;
+}
+#box5{
+    width:100px;
+    height:100px;
+    background-color: pink;
+    background-image:url('man.png');
+    background-size: cover;
+    opacity: 50%;
+}

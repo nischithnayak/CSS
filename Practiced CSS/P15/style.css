@@ -1,0 +1,10 @@
+div{
+    background-image:url('leaves.jpeg');
+    width: 400px;
+    height:200px;
+    background-color:#7aa874;
+    margin:10px auto;
+    background-size: cover;
+    color:white;
+
+}
