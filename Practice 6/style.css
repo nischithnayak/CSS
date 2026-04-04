@@ -7,3 +7,6 @@ h2{
 h3{
     text-decoration:dotted underline;
 }
+a{
+    text-decoration: none;
+}
