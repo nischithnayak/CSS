@@ -2,3 +2,13 @@ h1{
     text-align: center;
     color:red;
 }
+h2{
+    color:pink;
+}
+
+.myclass{
+    color:brown;
+}
+#greet{
+    color:yellow;
+}
