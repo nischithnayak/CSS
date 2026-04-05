@@ -44,3 +44,6 @@ p:active{
     font-weight: bold;
     color:green;
 }
+.follow:nth-of-type(2){
+    background-color: blanchedalmond;
+}
