@@ -15,3 +15,12 @@ div:nth-of-type(2n){
 div:nth-of-type(3n){
     background-color: #ebb02d;
 }
+#one{
+    transform: rotate(-90deg);
+}
+#two{
+    transform: rotate(180deg);
+}
+#three{
+    transform: rotate(-45deg);
+}
