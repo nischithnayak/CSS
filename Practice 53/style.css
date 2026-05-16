@@ -1,0 +1,17 @@
+    .box{
+        height:100px;
+        width:300px;
+        background-color: pink;
+        animation: fontAnimation 3s ease-in 0s 2 normal; 
+    }
+    @keyframes fontAnimation{
+        0%{
+            background-color: green;
+        }
+        50%{
+            background-color: yellow;
+        }
+        100%{
+            background-color: blue;
+            }
+    }
