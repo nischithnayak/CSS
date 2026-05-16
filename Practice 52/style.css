@@ -31,3 +31,11 @@
         width: 400px;
     }
 }
+.box{
+      animation: fontAnimation 2s linear 2s infinite normal;
+}
+@keyframes fontAnimation {
+    0%{font-size: 20px;}
+    50%{font-size: 30px;}
+    100%{font-size: 40px;}
+}
